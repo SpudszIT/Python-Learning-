@@ -1,4 +1,4 @@
-#Rock Paper Scissor Game 
+
 
 import sys 
 import random 
